@@ -73,7 +73,7 @@ Get your dose of Haskell today: <https://www.haskell.org/downloads/>
 
 [history_code/main.hs](history_code/main.hs)
 
-```
+```haskell
 module Main where
 
 import Data.Char

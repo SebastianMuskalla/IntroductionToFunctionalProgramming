@@ -13,6 +13,8 @@ Lecture material
 
 * [Literature](literature.md)
 
+* [Notes on the history of functional programming and Haskell](history.md)
+
 * [Exercise Sheet 1](exercises/sheet1.md)
 
     ([Code snippets](exercises/sheet1.hs), [Solution](exercises/solutions/sheet1_solution.hs))
@@ -53,13 +55,15 @@ Code examples / Explanation
 10. [Monads](code/10_monads.md)
 
 11. [do notation](code/11_do_notation.md)
-    * ([Code examples](11_do_notation_examples.hs))
+    * ([Code examples](code/11_do_notation_examples.hs))
 
 12. [Examples of monads](code/12_monads.hs)
 
 13. [Parsing using monads](code/13_parsing.hs)
 
 14. [The monads State and ST](code/14_state.hs)
+
+Note: The code has been tested using GHC version 8.10.7 on Windows 10 version 21H2.
 
 License
 -------
